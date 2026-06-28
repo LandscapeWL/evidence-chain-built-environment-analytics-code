@@ -31,7 +31,7 @@ The study builds a reproducible evidence map of built-environment analytics from
 - `11_topic_word_cloud_analysis.ipynb`  
   Produces topic-specific word-cloud terms and figures using controlled English labels.
 - `00_NSFC_CN_advanced_search/`  
-  Contains the NSFC advanced-search retrieval script and request-output CSV files used for the retrieval audit.
+  Contains the collected NSFC advanced-search request-output CSV files used for the retrieval audit.
 
 ## Data Scope
 
@@ -84,7 +84,7 @@ Some spatial visualization cells use map tiles and geospatial dependencies. If a
 4. Run the notebooks in numeric order if regeneration is needed.
 5. Inspect generated files under `output/figures`, `output/tables`, and `output/logs`.
 
-The README was prepared from the manuscript and static code inspection. The notebooks and retrieval script were not rerun during repository preparation.
+The README was prepared from the manuscript and static code inspection. The notebooks were not rerun during repository preparation.
 
 ## Citation
 
