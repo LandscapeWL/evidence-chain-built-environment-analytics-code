@@ -30,8 +30,6 @@ The study builds a reproducible evidence map of built-environment analytics from
   Constructs the 37-keyword co-occurrence network and six empirical topic clusters.
 - `11_topic_word_cloud_analysis.ipynb`  
   Produces topic-specific word-cloud terms and figures using controlled English labels.
-- `12_future_agenda_and_figure_qa.ipynb`  
-  Records the final integration review, figure QA logic, and future-agenda synthesis.
 - `00_NSFC_CN_advanced_search/`  
   Contains the NSFC advanced-search retrieval script and request-output CSV files used for the retrieval audit.
 
